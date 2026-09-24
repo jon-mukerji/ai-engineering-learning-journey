@@ -1,0 +1,39 @@
+Environment variables and secrets
+
+.env .env. !.env.example .pem *.key
+
+Python cache / compiled files
+
+pycache/ .py[cod] $py.class
+
+Virtual environments
+
+.venv/ venv/ env/ ENV/
+
+Packaging / build output
+
+build/ dist/ *.egg-info/
+
+Test / coverage files
+
+.pytest_cache/ .coverage htmlcov/
+
+Streamlit secrets
+
+.streamlit/secrets.toml
+
+Jupyter
+
+.ipynb_checkpoints/
+
+IDE / editor
+
+.vscode/ .idea/
+
+Operating system
+
+.DS_Store Thumbs.db
+
+Logs
+
+*.log
